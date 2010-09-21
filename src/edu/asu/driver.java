@@ -1,8 +1,8 @@
 package edu.asu;
 /**This program is to get the team familiar with the colloborative service of github.
  * The program will print out 'Hello, team!' followed by everyone's first and last names. 
- * @author Ryuu
- *
+ * @author Steven Honda
+ *@version 1.0
  */
 public class driver {
 
