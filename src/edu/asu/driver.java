@@ -13,6 +13,8 @@ public class driver {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, team!");
 		System.out.println("My name is Steven Honda");
+		System.out.println("My name is " + nathan.tostring());
+		System.out.println("My name is " + HelloDeimos.tostring());
 	}
 
 }

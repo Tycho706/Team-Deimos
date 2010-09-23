@@ -7,23 +7,11 @@ package edu.asu;
  * 
  */
 public class HelloDeimos {
+	
 
-	private String firstName, lastName;
-	
-	public HelloDeimos(String first, String last)
-	{
-		firstName = "Kellie ";
-		lastName = "Watson";
+	public static String tostring() {
 		
-	}
-	
-	public String toString()
-	{
-		String result;
-		
-		result = firstName + lastName;
-		
-		return result;
+		return "Kellie Watson";
 		
 	}
 }
