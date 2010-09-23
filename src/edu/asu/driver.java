@@ -1,5 +1,5 @@
 package edu.asu;
-/**This program is to get the team familiar with the colloborative service of github.
+/**This program is to get the team familiar with the collaborative service of github.
  * The program will print out 'Hello, team!' followed by everyone's first and last names. 
  * @author Steven Honda
  *@version 1.0
