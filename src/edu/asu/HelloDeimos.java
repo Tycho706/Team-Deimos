@@ -6,24 +6,10 @@ package edu.asu;
  * To demonstrate ability to push and pull from github.
  * 
  */
-public class HelloDeimos {
-
-	private String firstName, lastName;
-	
-	public HelloDeimos(String first, String last)
+public class HelloDeimos
+{
+	public static String Kellie()
 	{
-		firstName = "Kellie ";
-		lastName = "Watson";
-		
-	}
-	
-	public String toString()
-	{
-		String result;
-		
-		result = firstName + lastName;
-		
-		return result;
-		
+		return "Kellie Watson";
 	}
 }

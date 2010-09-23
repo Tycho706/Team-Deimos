@@ -5,9 +5,11 @@ package edu.asu;
  *
  */
 
-public class nathan extends driver {
+public class nathan 
+{
 	
-	private String tostring() {
+	public static String tostring()
+	{
 		return "Nathan Secrist";
 	}
 
