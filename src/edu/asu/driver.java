@@ -4,17 +4,20 @@ package edu.asu;
  * @author Steven Honda
  * @version 1.0
  */
-public class driver {
+public class driver
+{
 
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		System.out.println("Hello, team!");
-		System.out.println("My name is Steven Honda");
-		System.out.println("My name is " + nathan.tostring());
-		System.out.println("My name is " + HelloDeimos.tostring());
+		System.out.println("The members of the team are:");
+		System.out.println("Steven Honda");
+		System.out.println(Michael.Michael());
+		System.out.println(HelloDeimos.Kellie());
+		System.out.println(nathan.tostring());
 	}
-
 }
